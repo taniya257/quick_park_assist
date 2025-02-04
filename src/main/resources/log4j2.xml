@@ -16,7 +16,7 @@
                 host="localhost"
                 index="quickparkassist_index"
                 type="raw"
-                source="quick-park-assist"
+                source="quick_park_assist"
                 sourcetype="log4j"
                 messageFormat="text"
                 disableCertificateValidation="true">
